@@ -17,7 +17,7 @@
       <pubDate>Fri, 27 Mar 2020 21:56:31 +0800</pubDate>
       
       <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>如何用hugo搭建博客 第一步  去hugo release 页面下载 hugo_xxx_Windows-64bit.zip 解压hugo并将其配置到path 重启终端，运行hugo version 查看版本  第二步  进入hugo官网，点击QuickStart快速开始 从Step2 开始复制粘贴代码到终端，直到Step7  查看hugo版本  hugo version  创建新的网站  hugo new site quickstart  创建默认主题  git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml  创建第一篇博客  hugo new posts/my-first-post.md  预览草稿  hugo server -D  打开 config.toml 进行博客配置  baseURL = &amp;quot;https://example.org/&amp;quot; languageCode = &amp;quot;en-us&amp;quot; title = &amp;quot;My New Hugo Site&amp;quot; theme = &amp;quot;ananke&amp;quot;  得到一个public目录，这是博客站点 hugo server -D 可以预览草稿  </description>
+      <description>如何用hugo搭建博客 第一步  去hugo release 页面下载 hugo_xxx_Windows-64bit.zip 解压hugo并将其配置到path 重启终端，运行hugo version 查看版本  第二步  进入hugo官网，点击QuickStart快速开始 从Step2 开始复制粘贴代码到终端，直到Step7  查看hugo版本  hugo version  创建新的网站  hugo new site quickstart  创建默认主题  git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml  创建第一篇博客  hugo new posts/my-first-post.md  预览草稿  hugo server -D  打开 config.toml 进行博客配置  baseURL = &amp;quot;https://example.org/&amp;quot; languageCode = &amp;quot;en-us&amp;quot; title = &amp;quot;My New Hugo Site&amp;quot; theme = &amp;quot;ananke&amp;quot;  得到一个public目录，这是博客站点  </description>
     </item>
     
     <item>
